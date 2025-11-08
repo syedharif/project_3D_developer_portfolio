@@ -203,7 +203,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## License
-This project is open source and distributed under the <a href="">MIT License</a>.
+This project is open source and distributed under the <a href="https://github.com/syedharif/project_3D_developer_portfolio/blob/00f6c3e65efdd430610ff8ef50e533f176e22bfe/LICENSE">MIT License</a>.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
