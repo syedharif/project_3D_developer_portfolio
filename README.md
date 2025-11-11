@@ -84,8 +84,8 @@ At its core lies a **custom-built 3D interactive keyboard** (<u><a href="https:/
 ### Install
 ```bash
 # clone
-git clone https://github.com/syedhariffayaz/3d-interactive-portfolio.git
-cd 3d-interactive-portfolio
+git clone https://github.com/syedharif/project_3D_developer_portfolio.git
+cd project_3D_developer_portfolio
 
 # install dependencies
 npm install
